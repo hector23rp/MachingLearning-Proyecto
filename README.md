@@ -21,9 +21,4 @@ El dataset se encuentra en la carpeta de Drive. Estos archivos se deben descarga
 +--- script_nocsv.py          // Script de pruebas sin coger ficheros csv. Sólo trabaando con ficheros .mat
 +--- script.py                // Script de pruebas
 +--- snapshot.png             // Imagen de los sensores
-| | |-- ConceptController.js // Logística de la api con el documento Concept
-| | |-- ProjectController.js // Logística de la api con el documento Project
-| | |-- ProviderController.js // Logística de la api con el documento Provider
-| | |-- UserController.js    // Logística de autenticación (Registrar usuario y loggearse) y con el documento User
-| | └── ReservationController.js
 ```
