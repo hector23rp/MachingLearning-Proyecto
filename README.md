@@ -13,7 +13,7 @@ El dataset se encuentra en la carpeta de Drive. Estos archivos se deben descarga
 | +--- additional_files/      // Fichero que contiene las coordenadas de los sensores. Se utilizó para crear la imagen de los sensores
 +--- examples/                // Scripts del repositorio oficial de la competición 
 | +--- benchmark_pooling.py   // Script que lee todos los ficheros .mat, realiza un preprocesado y clasifica con LogicRegression
-| +--- createCsvpy            // Script que permite pasar los ficheros .mat a formato csv
+| +--- createCsv.py            // Script que permite pasar los ficheros .mat a formato csv
 | +--- neuromag_vectorview_3d_layout.py  // Script que pinta los sensores en un dibujo.
 +--- Presentacion1/           // Documentos y ficheros de la primera presentación
 +--- .gitignore               // Git ignore
