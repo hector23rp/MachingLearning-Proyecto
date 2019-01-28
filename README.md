@@ -1,6 +1,33 @@
 # MachingLearning-Proyecto
 Proyecto de Maching Learning de Decodificación Cerebral
 
+## Instalación del entorno
+
+	1. Arrancamos la línea de comandos de Anaconda Prompt
+
+    2. Vamos a la carpeta donde se encuentre el repositorio
+
+	3. Creamos el entorno virtual de tensorflow y lo activamos:
+
+    ```sh
+    conda create -n tensorflow_env tensorflow   // Creacion del entorno virtual
+    
+    conda activate tensorflow_env               // Activacion del entorno virtual
+    ```
+	 
+    4. Instalamos jupyter-notebook y dependencias
+
+    ```sh
+    pip install jupyter-notebook pandas keras seaborn sklearn scipy
+    ```
+
+    5. Iniciamos jupyter
+
+    ```sh
+    jupyter noteook
+    ```
+
+
 ### Dataset 
 
 El dataset se encuentra en la carpeta de Drive. Estos archivos se deben descargar y poner en la carpeta data/data
